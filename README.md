@@ -143,7 +143,7 @@ tbody tr:nth-child(even) {
 
 ```
 ## Live Web Page:
-
+https://nmrohith.github.io/Product_Table/
 ## Output:
 ![image](https://github.com/user-attachments/assets/23380e7d-7af2-425b-a777-2bee92adca8f)
 
